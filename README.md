@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 頭を柔軟に
 
 100日英語日記できた、AWSでデプロイな
+
+夏だな〜
 --->
