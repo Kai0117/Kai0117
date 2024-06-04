@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 
 100日英語日記できた、AWSでデプロイな
 
-夏だな〜
+夏だな〜,AWS難しいけど側の理解が先や
 --->
