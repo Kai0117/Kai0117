@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 夏だな〜,AWS難しいけど側の理解が先や
 
-側の理解が先、
+側の理解が先、tashのチケットとれた
 --->
