@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 
 AWSむずい、時間かかるね、でもやる...
 
-這い上がる、うぇい、ぎゃく採用、久しぶりにルアン
+這い上がる、うぇい、ぎゃく採用、久しぶりにルアン、今日は書くデイ
 --->
