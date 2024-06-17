@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 側の理解が先、tashのチケットとれた
 
-AWSむずい、時間かかるね、でもやる...
+AWSむずい、時間かかるね、でもやる...雨
 勉強再開できた、もうちょうでデプロイ完了しそうなのでやりきろ
 這い上がる、うぇい、ぎゃく採用、久しぶりにルアン、今日は書くデイ、AWSむず過ぎわろた
 --->
