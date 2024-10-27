@@ -1,15 +1,15 @@
-ふす- 👋 Hi, I’m @Kai0117
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Kai0117 Kai Katayama from Japan. I love music especiallt Tash sultana!
+- 👀 I’m interested in ruby on rails and ruby.
+- 🌱 I’m currently learning ruby on rails and ruby.
+- 📫 How to reach me, please give me a e-mail here "dvlpasapro@gmail.com"
+- 😄 Pronouns: Kai
 
-<!---
-Kai0117/Kai0117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.wow、wow、wowow、wow、
-wow、powerrest、sudo1
-sudo、sudo2、sudo32,sudo33212321222122711312111231222211211
-14121111111111221111111111221111111111
-22111
+This is the　webapplication currently developing.
+https://myproject-2-piwp.onrender.com
+⭐️100 characters English diary⭐️
+
+This is the appilcation for people leraning english.
+People write only 100 english characters at one post!
+This application help you to continue lerning english and write easy english diary.
+
+Thanks
