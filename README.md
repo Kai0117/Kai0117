@@ -13,3 +13,5 @@ People write only 100 english characters at one post!
 This application help you to continue lerning english and write easy english diary.
 
 Thank you!!!!!!⭐️⭐️⭐️
+
+14章、エラー解消...
