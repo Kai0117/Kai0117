@@ -14,4 +14,4 @@ This application help you to continue lerning english and write easy english dia
 
 Thank you!!!!!!⭐️⭐️⭐️
 
-14章、エラー解消...
+14章、エラー解消.☑️
