@@ -4,7 +4,7 @@
 📫 How to reach me, please give me a e-mail here "dvlpasapro@gmail.com"
  😄 Pronouns: Kai
 
-This is the　webapplication currently developing.
+This is the webapplication currently developing.
 https://myproject-2-piwp.onrender.com
 ⭐️100 characters English diary⭐️
 
