@@ -1,14 +1,14 @@
  👋 Hi, I’m @Kai0117 Kai Katayama from Japan. I love music especially Tash sultana!
- 👀 I’m interested in ruby on rails and ruby.
+ 👀 I love Ruby and Rails.
  🌱 I’m currently learning ruby on rails and ruby.
-📫 How to reach me, please give me a e-mail here "dvlpasapro@gmail.com"
- 😄 Pronouns: Kai
+ 📫 How to reach me, please give me a e-mail here "dvlpasapro@gmail.com"
 
-This is the webapplication currently developing.
-https://myproject-2-piwp.onrender.com
-⭐️100 characters English diary⭐️
 
-This is the appilcation for people leraning english.
-People write only 100 english characters at one post!
-This application help you to continue lerning english and write easy english diary.
+開発しているアプリ
+⭐️名言メーカー⭐️ なにげない一言を名言っぽく変換してくれます
+https://cheer-up-diary-1.onrender.com/
+
+![Sample](https://github.com/user-attachments/assets/4df871c9-2b7c-4cd2-ab87-ed7c9c2e7ec9)
+
+
 
