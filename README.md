@@ -11,7 +11,8 @@
 
 https://cheer-up-diary-1.onrender.com/
 
-![Sample](https://github.com/user-attachments/assets/4df871c9-2b7c-4cd2-ab87-ed7c9c2e7ec9)
+![Sample](https://github.com/user-attachments/assets/3e74da1c-44be-480f-945c-27133ed1fa49)
+
 
 
 
