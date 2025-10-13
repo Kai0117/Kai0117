@@ -7,11 +7,12 @@
 
 ⭐️名言メーカー⭐️ 
 
-なにげない一言を名言っぽく変換してるアプリです！
+なにげない一言を名言っぽく変換してるアプリです！名言量産していきましょう！！！
 
 https://cheer-up-diary-1.onrender.com/
+![gif](https://github.com/user-attachments/assets/1c1542e2-693e-4ac3-b171-6629d32e5211)
 
-![Sample](https://github.com/user-attachments/assets/3e74da1c-44be-480f-945c-27133ed1fa49)
+
 
 
 
