@@ -3,11 +3,14 @@
 ### Feel free to contact me anytime!👍
 
 
+# Now developing⭐️
+### I'm developing Mind Sound by using mainly Rails and Music API(Spotify) and AI API(OpenAI). 
+### This app deliver perfect music option for you.
+### Demo
+![タイトルなし](https://github.com/user-attachments/assets/4ece5703-3d53-4bf9-a8a4-31068f463873)
 
-
-# My GitHub Activity Heatmap
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0117&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+### アプリはこちらからアクセスできます
+[Mind sound を開く](https://my-sound.onrender.com/sound_infos/new)
 
 
 
@@ -17,14 +20,26 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,github,vscode" /> <br /><br />
 
- 
-  
+
+
+# My Top Languages
+
+<a href="https://github.com/Kai0117">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0117&layout=compact&theme=vue-dark" width="450" />
+</a>
+
+
+  # My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,github,vscode" /> <br /><br />
+
+---
 
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
-<br><br><br>
+<br><br>
 
 <div align="center">
     <h1>
