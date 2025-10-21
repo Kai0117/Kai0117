@@ -4,14 +4,14 @@
 
 
 # Now developing⭐️
-### I'm developing Mind Sound by using mainly Rails and Music API(Spotify) and AI API(OpenAI). 
+### I'm developing My Sound by using mainly Rails and Music API(Spotify) and AI API(OpenAI). 
 ### This app deliver perfect music option for you.
 ### Demo
 ![Uploading 最新ver.gif…]()
 
 
 ### アプリはこちらからアクセスできます(ロードに時間がかかる場合、リロードをお願いします)
-[Mind sound を開く](https://my-sound.onrender.com/sound_infos/new)
+[My sound を開く](https://my-sound.onrender.com/sound_infos/new)
 
 
 
