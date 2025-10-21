@@ -1,4 +1,4 @@
-# Web Developer in Japan👋
+![最新ver](https://github.com/user-attachments/assets/4ed83059-314e-4a65-8fc3-8e4baa731bfd)# Web Developer in Japan👋
 ### Just 29 years old.
 ### Feel free to contact me anytime!👍
 
@@ -7,8 +7,8 @@
 ### I'm developing My Sound by using mainly Rails and Music API(Spotify) and AI API(OpenAI). 
 ### This app deliver perfect music option for you.
 ### Demo
+![Uploading 最新ver.gif…]()
 
-![Uploading タイトルなし.gif…]()
 
 
 
