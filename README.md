@@ -1,4 +1,4 @@
-![最新ver](https://github.com/user-attachments/assets/4ed83059-314e-4a65-8fc3-8e4baa731bfd)# Web Developer in Japan👋
+# Web Developer in Japan👋
 ### Just 29 years old.
 ### Feel free to contact me anytime!👍
 
