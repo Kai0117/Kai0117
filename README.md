@@ -14,7 +14,7 @@
 
 
 ### アプリはこちらからアクセスできます(ロードに時間がかかる場合、リロードをお願いします)
-[Mind sound を開く](https://my-sound.onrender.com/sound_infos/new)
+[Mind Sound を開く](https://my-sound.onrender.com/sound_infos/new)
 
 
 
