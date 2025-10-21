@@ -7,7 +7,8 @@
 ### I'm developing My Sound by using mainly Rails and Music API(Spotify) and AI API(OpenAI). 
 ### This app deliver perfect music option for you.
 ### Demo
-![Uploading 最新ver.gif…]()
+
+![Uploading タイトルなし.gif…]()
 
 
 
