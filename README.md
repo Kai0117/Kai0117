@@ -1,5 +1,5 @@
 # Web Developer in Japan👋
-### Just 29 years old 
+### Just 29 years old.
 ### Feel free to contact me anytime!👍
 
 
