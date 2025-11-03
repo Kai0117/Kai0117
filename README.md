@@ -6,8 +6,10 @@
 # Now developing⭐️
 ### I'm developing Mind Sound by using mainly Rails and Music API(Spotify) and AI API(OpenAI). 
 ### This app deliver perfect music option for you.
-### Demo
-![最新ver](https://github.com/user-attachments/assets/40111137-5224-4838-8c2f-ea0d50eab59c)
+### Demo!
+[最高](https://github.com/user-attachments/assets/3b12ce3b-201e-413e-9d8a-748b903f468c)
+
+
 
 
 
